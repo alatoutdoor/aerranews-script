@@ -1,1 +1,1 @@
-
+document.writeln("cuma test");
